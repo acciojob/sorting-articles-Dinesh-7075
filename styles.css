@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+body {
+  background-image: url('https://img.freepik.com/free-photo/high-hills-covered-dry-grass-sunny-day-with-visible-skyline-mt-tam-marin-ca_181624-3392.jpg?w=2000');
+}
+div{
+	background-color:white;
+	width:50%;
+	height:750px;
+	border: 1px solid white;
+	margin-left:25%;
+	background-repeat: no-repeat;
+	box-shadow: 0px 0px 10px green;
+}
+ul,li {
+	list-style-type: square;
+	padding:20px;
+	font-size:20px;
+	box-shadow: 0.5px 0px 10px lightgray;
+}
